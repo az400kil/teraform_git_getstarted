@@ -1,5 +1,6 @@
 
 ### Desired and Current State
+### Missing what happens if the desired state does not match
 
 i) Desired State: EC2 = instance_type = "t2.micro"
 
